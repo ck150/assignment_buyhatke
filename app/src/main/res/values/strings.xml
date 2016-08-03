@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SMS Inbox</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_send">Send</string>
+    <string name="compose_num_hint">Type number</string>
+    <string name="compose_msg_hint">Type message</string>
+    <string name="search_label">Search</string>
+    <string name="backup_label">Backup</string>
+    <string name="search_hint">type here</string>
+    <string name="title_activity_search">Search Results</string>
+    <string name="title_activity_thread_view">SMS Thread</string>
+    <string name="title_activity_compose_message">Compose SMS</string>
+</resources>
