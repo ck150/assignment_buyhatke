@@ -278,9 +278,7 @@ public class MainActivity extends AppCompatActivity implements
                 }
             }
         }
-        dir.mkdir();
-
-
+        dir.mkdirs();
 
         Uri mSmsinboxQueryUri = Uri.parse("content://sms");
         Cursor cursor1 = getContentResolver().query(
